@@ -10,7 +10,7 @@
   - Consumaçâo 
   - Negócio Jurídico
   - Sujeito ativo e passivo
-  - Tentavia
+  - Tentativa
   - Furto qualificado
   - Furto Privilegiado
   - Furto noturno
