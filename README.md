@@ -6,7 +6,7 @@
 - Crimes contra o patrimônio
   - Conceito Básico
 - Furto
-  - Conceito
+  - Objetividade jurídica
   - Consumaçâo 
   - Negócio Jurídico
   - Sujeito ativo e passivo
@@ -16,16 +16,33 @@
   - Furto noturno
   - Furto Comum
   - Furto Famelico
+  - Pena e açâo penal
   - OBS: talvez mudar a ordem dos tipos de furtos
 - Roubo
-  - Conceito
-  - Consumação
+  - Objetividade jurídica
   - Negócio Jurídico
-  - Sujeito ativo e passivo 
+  - Consumaçâo 
   - Tentativa
-  - Diferença de Roubo próprio pra roubo improprio 
-- Drogas
-  - Drogas e Usuário
+  - Suejito Ativo e Passivo
+  - Roubo próprio/improprio
+  - Pena e açâo penal
+- Drogas 
+  - Drogas e Usuário 
+  - Drogas
+  - Usuário
+  - Competencia Territorial
+  - Bem jurídico Tutelado
+  - Consumaçâo 
+  - Tentativa
+  - Sujeito Ativo e Passivo
+  - Pena e açâo Penal
+- Tráfrico de drogas
+  - Sujeito ativo e passivo
+  - Bem jurídico Tutelado
+  - Consumação
+  - Tentativa
+  - Elemento subjetivo do crime
+  - Pena e Açâo Penal
 - RELAÇÃO DOS CRIMES DE FURTO E ROUBO COM OS USUÁRIOS DE DROGAS
 - Consideraçôes Finais
 - Refêrencias 
